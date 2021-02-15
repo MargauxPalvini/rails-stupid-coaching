@@ -1,0 +1,22 @@
+// Place all the styles related to the answers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  background: red;
+}
+
+input[type="text"] {
+  padding: 4px 8px;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 189px;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
